@@ -14,3 +14,6 @@ python practice
 - matplotlibTest Matplotlib绘图库,主要用于二维绘图，可以用于简单的三维绘图
   -  [matplotlib.org](http://www.numpy.org/) 
   -  [matplotlib](http://reverland.org/python/2012/09/07/matplotlib-tutorial/)    
+- pandasTest Pandas是Python最强大的数据分析和探索工具，支持类似于SQL的数据增删改查，并且带有丰富的数据处理函数，支持时间序列分析功能，支持灵活处理缺失数据  
+  -  [pandas.org](http://pandas.pydata.org/pandas-docs/stable/) 
+  -  [pandas](http://jingyan.baidu.com/season/42456)
